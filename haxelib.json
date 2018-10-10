@@ -1,0 +1,20 @@
+{
+	"name": "springroll",
+	"license": "ISC",
+	"classPath": "src",
+	"tags": [
+		"js",
+		"haxe",
+        "springroll",
+        "bellhop",
+		"extern",
+		"web"
+	],
+	"description": "Externs of springroll V2 for Haxe",
+	"contributors": [
+		"JonGardner"
+	],
+	"releasenote": "",
+	"version": "0.0.1",
+	"url": "https://github.com/SpringRoll/springroll-haxe"
+}
