@@ -23,6 +23,8 @@ typedef ApplicationConfig = {
 extern class Application {
 	var state:StateManager;
 	var container:Bellhop;
+	var hintPlayer:IHintPlayer;
+	
 	function new(config:ApplicationConfig);
 	
 	static function uses(plugin:ApplicationPlugin):Void;
